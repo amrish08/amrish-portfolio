@@ -10,17 +10,17 @@ const Projects = () => {
             {
                 image: websiteImg1,
                 description: 'A Real-Estate app build with Ember.js and Ruby on Rails.',
-                link: ''
+                link: 'https://www.tenantcube.com/'
             },
             {
                 image: websiteImg2,
                 description: 'A Candidate test Application known as QMALL build with Ruby on Rails and jQuery.',
-                link: ''
+                link: 'https://www.cicgogo.com/products/qmall/applications-of-qmall'
             },
             {
                 image: websiteImg3,
                 description: 'A food management and expense tracker application build with React.js and Ruby on Rails.',
-                link: ''
+                link: 'https://www.ideagen.com/solutions/quality/quality-management'
             }
         ]
     }
@@ -39,6 +39,7 @@ const Projects = () => {
                     <img className='h-[200px] w-[500px]' src={project.image}/>
                     <div className='project-desc'>
                         <p className='text-center px-5 py-5'>{project.description}</p>
+                        <p className='px-5 py-10'><a className='btn' href={project.link}>View Project</a></p>
                     </div>
                 </div>
                 ))}
