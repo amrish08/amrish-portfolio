@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amrish-portfolio/static/css/main.ed0105a4.css",
-    "main.js": "/amrish-portfolio/static/js/main.a7cb8870.js",
+    "main.js": "/amrish-portfolio/static/js/main.6b7b5306.js",
     "static/media/Qadex.png": "/amrish-portfolio/static/media/Qadex.71fb5619ace9d9acd3c9.png",
     "static/media/about.png": "/amrish-portfolio/static/media/about.619ff0b319a55d0c05b1.png",
     "static/media/tenantcube.png": "/amrish-portfolio/static/media/tenantcube.82887fdf90d621afde60.png",
@@ -11,10 +11,10 @@
     "static/media/port-logo.jpg": "/amrish-portfolio/static/media/port-logo.7753ef03d8bbc8246ed2.jpg",
     "index.html": "/amrish-portfolio/index.html",
     "main.ed0105a4.css.map": "/amrish-portfolio/static/css/main.ed0105a4.css.map",
-    "main.a7cb8870.js.map": "/amrish-portfolio/static/js/main.a7cb8870.js.map"
+    "main.6b7b5306.js.map": "/amrish-portfolio/static/js/main.6b7b5306.js.map"
   },
   "entrypoints": [
     "static/css/main.ed0105a4.css",
-    "static/js/main.a7cb8870.js"
+    "static/js/main.6b7b5306.js"
   ]
 }
